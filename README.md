@@ -1,4 +1,4 @@
-# GitHub JAVA API Client 
+# GitHub API JAVA Client 
 This is a Java API client which determines finds top 5 most popular repositories of a given organization on github (Eg:https://github.com/google) based on the number of forks. For each such repo find the top 3 committees and their commit counts.
 
 It is broken down into 4 modules
